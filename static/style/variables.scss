@@ -1,0 +1,58 @@
+$font-family-base: "Nunito","Helvetica Neue","Helvetica","Arial",sans-serif;
+
+$gray-900: #333;
+$gray-800: #333;
+$gray-100: #fff;
+$primary: blueviolet;
+$secondary: #5a5a5a;
+$info: rebeccapurple;
+
+$theme-colors: (
+ 	'grayf9': #f9f9f9,
+  'gray97': #979797,
+  'grayf1': #f1f4f8,
+  'orange': #ff6500,
+  'footer': #2c343f
+);
+
+$container-max-widths: (
+  sm: 540px,
+  md: 720px,
+  lg: 960px,
+  xl: 1440px
+);
+$font-size-base: 1rem;
+$font-weight-bold: 600;
+$h1-font-size:  $font-size-base * 3;
+$h2-font-size:  $font-size-base * 2.25;
+$h3-font-size:  $font-size-base * 1.75;
+$h6-font-size:  $font-size-base * 1.125;
+
+$navbar-nav-link-padding-x: 1.5rem;
+$navbar-light-color: $gray-900;
+$navbar-light-hover-color: $info;
+
+$btn-border-radius: 1000px;
+$btn-border-radius-lg: 1000px;
+$btn-border-radius-sm: 1000px;
+$input-btn-padding-x: 2.2rem;
+$input-btn-padding-y: 0.54rem;
+$btn-font-size: 1.125rem;
+$input-btn-padding-x-lg: 2.65rem;
+$input-btn-padding-y-lg: 0.8rem;
+$btn-border-width: 2px;
+$border-radius: 0.5rem;
+
+$headings-line-height: 1.5;
+$headings-font-weight: 600;
+
+@mixin custom-media-down($breakpoint: map-get($grid-breakpoints,'sm')) {
+  @media (max-width: $breakpoint) {
+    @content;
+  }
+}
+@mixin custom-media-up($breakpoint: map-get($grid-breakpoints,'lg')) {
+  @media (min-width: $breakpoint) {
+    @content;
+  }
+}

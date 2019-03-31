@@ -1,0 +1,53 @@
+.navbar {
+	box-shadow: 0 2px 4px 0 rgba(0, 0, 0, 0.2);z-index: 99;
+  @include custom-media-down {
+    .navbar-collapse {
+      position: absolute;left: 0;top: 55px;width: 100%;z-index: 10;background-color: #fff;padding: 0 1rem;
+      .navbar-nav {
+        padding-bottom: 1rem;
+      }
+    }
+  }
+}
+
+.navbar-light .navbar-toggler {
+  border: none;padding-right: 0;
+  &[aria-expanded="true"] {
+    span {
+      background-image: none;position: relative;
+      &:before {
+        content: '';width: 100%;height: 2px;position: absolute;left: 0;top: 50%;margin-top: -1px;background-color: $gray-900;
+        transform: rotate(45deg);
+      }
+      &:after {
+        content: '';width: 100%;height: 2px;position: absolute;left: 0;top: 50%;margin-top: -1px;background-color: $gray-900;
+        transform: rotate(-45deg);
+      }
+    }
+  }
+}
+
+.tc_bg {
+  position: fixed;width: 100%;height: 100%;left: 0;top: 0;
+  background-color: rgba(0,0,0,0.4);z-index: 89;
+}
+
+[data-toggle="dropdownSubNav"] {
+  &:after {
+    display: inline-block;
+    margin-left: 0.255em;
+    vertical-align: 0.255em;
+    content: "";
+    border-top: 0.3em solid;
+    border-right: 0.3em solid transparent;
+    border-bottom: 0;
+    border-left: 0.3em solid transparent;
+  }
+  &.active:after {
+    transform: rotate(180deg);
+  }
+}
+
+.bg-navbar {
+  background-color: blueviolet !important;
+}

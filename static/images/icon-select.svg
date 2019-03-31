@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="14px" height="14px" viewBox="0 0 14 14" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>icon select</title>
+    <desc>Created with Sketch.</desc>
+    <g id="页面-1" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd" stroke-linecap="round">
+        <g id="画板">
+            <g id="icon-select" transform="translate(1.000000, 1.000000)">
+                <path d="M8.17496925,0.406355958 C7.50063425,0.143966741 6.76712974,0 6,0 C2.6862915,0 -1.43884904e-13,2.6862915 -1.43884904e-13,6 C-1.43884904e-13,9.3137085 2.6862915,12 6,12 C9.06129429,12 11.5871153,9.70736616 11.9541501,6.7454113" id="路径" stroke="rebeccapurple"></path>
+                <polyline id="路径" stroke="rebeccapurple" transform="translate(7.106155, 3.913136) rotate(45.000000) translate(-7.106155, -3.913136) " points="9.06433983 0.337310601 9.06433983 7.48896103 5.14797077 7.48896103"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

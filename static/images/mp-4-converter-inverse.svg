@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Icon120/Dark/mp4 converter </title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon120/Dark/mp4-converter-" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组-2" transform="translate(16.000000, 5.000000)">
+            <g id="分组" transform="translate(48.000000, 59.000000)" stroke="#FF6500" stroke-linecap="round" stroke-width="4">
+                <path d="M10.6495367,5.84932855 C6.30524369,9.59838389 3.55555556,15.1447466 3.55555556,21.3333333 C3.55555556,32.6244882 12.7088451,41.7777778 24,41.7777778 M36.9069653,37.1893045 C41.5067723,33.4404689 44.4444444,27.7299662 44.4444444,21.3333333 C44.4444444,10.0421784 35.2911549,0.888888889 24,0.888888889" id="形状"></path>
+                <polyline id="Path-21" stroke-linejoin="round" transform="translate(38.709389, 35.153834) rotate(45.000000) translate(-38.709389, -35.153834) " points="30.7093894 31.1511669 38.863215 39.1565007 46.7093894 31.1511669"></polyline>
+                <polyline id="Path-21-Copy" stroke-linejoin="round" transform="translate(8.487167, 8.487167) scale(-1, -1) rotate(45.000000) translate(-8.487167, -8.487167) " points="0.487167143 4.48450026 8.64099278 12.489834 16.4871671 4.48450026"></polyline>
+            </g>
+            <g id="Group-2">
+                <g id="Group">
+                    <path d="M43.7597656,92 L3,92 C1.34314575,92 0,90.6568542 0,89 L0,11 C0,9.34314575 1.34314575,8 3,8 L57,8 C58.6568542,8 60,9.34314575 60,11 L60,53" id="Rectangle-50" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <g id="分组" transform="translate(12.000000, 22.000000)" stroke="rebeccapurple" stroke-width="4">
+                        <circle id="Oval-12" cx="18" cy="18" r="18"></circle>
+                        <path d="M20.3225471,13.1306018 L25.3680865,21.8697322 C25.6442288,22.3480248 25.4803537,22.9596152 25.002061,23.2357576 C24.8500418,23.3235259 24.6775977,23.3697322 24.502061,23.3697322 L14.4109824,23.3697322 C13.8586977,23.3697322 13.4109824,22.9220169 13.4109824,22.3697322 C13.4109824,22.1941955 13.4571887,22.0217514 13.544957,21.8697322 L18.5904963,13.1306018 C18.8666387,12.6523091 19.4782291,12.488434 19.9565217,12.7645764 C20.1085409,12.8523447 20.2347788,12.9785825 20.3225471,13.1306018 Z" id="Polygon" transform="translate(19.456605, 18.000083) rotate(90.000000) translate(-19.456605, -18.000083) "></path>
+                    </g>
+                    <path d="M0,77.5 L40,77.5" id="路径-2" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

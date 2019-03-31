@@ -1,0 +1,13 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="120" height="120" viewBox="0 0 120 120">
+    <g fill="none" fill-rule="evenodd">
+        <g stroke="blueviolet" stroke-width="4" transform="translate(36 42)">
+            <circle cx="18" cy="18" r="18"/>
+            <path d="M24.326 18.866l-8.739 5.046a1 1 0 0 1-1.5-.866V12.954a1 1 0 0 1 1.5-.866l8.74 5.046a1 1 0 0 1 0 1.732z"/>
+        </g>
+        <path stroke="blueviolet" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M92 28v42m0 35a4 4 0 0 1-4 4H20a4 4 0 0 1-4-4V15a4 4 0 0 1 4-4h54"/>
+        <path stroke="blueviolet" stroke-linecap="round" stroke-linejoin="round" stroke-width="4" d="M92 28H78a4 4 0 0 1-4-4V11l18 17z"/>
+        <text fill="#FF6500" font-family="Nunito-Black, Nunito" font-size="18" font-weight="700" letter-spacing="-.6">
+            <tspan x="71" y="95">WM</tspan> <tspan x="108" y="95">V</tspan>
+        </text>
+    </g>
+</svg>

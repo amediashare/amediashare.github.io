@@ -1,0 +1,25 @@
+// google font
+@import url(https://fonts.googleapis.com/css?family=Nunito:400,300,600,700);
+
+// font icon
+//@import "../kvFonts/style.css";
+
+// custom sass variables
+@import "./variables.scss";
+
+
+// bootstrap4.0
+@import "~bootstrap/scss/bootstrap";
+
+
+// custom component style
+@import "./global.scss";
+@import "./navbar.scss";
+@import "./video.scss";
+
+// sweetalert reset
+@import "./sweetalert-reset.scss";
+
+// slick-carousel style
+@import "~slick-carousel/slick/slick.scss";
+@import "./slick-theme.scss";

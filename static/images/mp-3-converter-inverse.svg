@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Icon120/Dark/mp3 converter</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon120/Dark/mp3-converter" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组-2" transform="translate(10.000000, 13.000000)">
+            <g id="分组" transform="translate(54.000000, 51.000000)" stroke="#FF6500" stroke-linecap="round" stroke-width="4">
+                <path d="M10.6495367,5.84932855 C6.30524369,9.59838389 3.55555556,15.1447466 3.55555556,21.3333333 C3.55555556,32.6244882 12.7088451,41.7777778 24,41.7777778 M36.9069653,37.1893045 C41.5067723,33.4404689 44.4444444,27.7299662 44.4444444,21.3333333 C44.4444444,10.0421784 35.2911549,0.888888889 24,0.888888889" id="形状"></path>
+                <polyline id="Path-21" stroke-linejoin="round" transform="translate(38.709389, 35.153834) rotate(45.000000) translate(-38.709389, -35.153834) " points="30.7093894 31.1511669 38.863215 39.1565007 46.7093894 31.1511669"></polyline>
+                <polyline id="Path-21-Copy" stroke-linejoin="round" transform="translate(8.487167, 8.487167) scale(-1, -1) rotate(45.000000) translate(-8.487167, -8.487167) " points="0.487167143 4.48450026 8.64099278 12.489834 16.4871671 4.48450026"></polyline>
+            </g>
+            <g id="Group-2">
+                <g id="Group">
+                    <path d="M49.7597656,84 L9,84 C7.34314575,84 6,82.6568542 6,81 L6,3 C6,1.34314575 7.34314575,0 9,0 L63,0 C64.6568542,0 66,1.34314575 66,3 L66,45" id="Rectangle-50" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+                    <circle id="椭圆形" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" cx="36" cy="66" r="7"></circle>
+                    <rect id="矩形" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" x="14" y="7" width="44" height="42" rx="2"></rect>
+                    <g id="分组-3" transform="translate(27.000000, 16.000000)" stroke="#FFFFFF" stroke-linecap="round" stroke-linejoin="round" stroke-width="4">
+                        <polyline id="路径-2" points="18.9326172 0.934570312 12.8232422 3.72363281 12.8232422 19"></polyline>
+                        <ellipse id="椭圆形" transform="translate(7.000000, 19.500000) rotate(-15.000000) translate(-7.000000, -19.500000) " cx="7" cy="19.5" rx="6" ry="4.5"></ellipse>
+                    </g>
+                </g>
+            </g>
+        </g>
+    </g>
+</svg>

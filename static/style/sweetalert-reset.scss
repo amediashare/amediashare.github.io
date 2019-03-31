@@ -1,0 +1,28 @@
+.swal-button {
+	background-color: $primary;border:solid 2px $primary;padding: 5px 24px;
+}
+.swal-button:focus {
+	box-shadow: none;
+}
+.swal-button:active {
+	background-color: $primary;
+}
+.swal-footer {
+	text-align: center;
+}
+.swal-button--yes {
+	background-color: #fff;color: $primary;
+}
+.swal-button--yes:hover {
+	background-color: $primary;color: #fff;
+}
+.swal-icon--warning {
+	border-color: $primary;animation:none;
+}
+.swal-icon--warning__body, .swal-icon--warning__dot {
+	background-color: $primary;
+}
+
+.swal-button:not([disabled]):hover {
+	background-color: $primary;
+}

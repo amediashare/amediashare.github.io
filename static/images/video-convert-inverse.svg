@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Icon120/Dark/video convert</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon120/Dark/video-convert" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="Group-2" transform="translate(7.000000, 13.000000)">
+            <path d="M54.8691406,83 L9,83 L9,33 M25.9335938,33 L99,33 L99,41.2675781" id="Rectangle" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>
+            <polyline id="Mask" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(52.321483, 17.823221) rotate(-10.000000) translate(-52.321483, -17.823221) " points="7.32148302 23.9718739 9.27218511 12.9088926 97.321483 7.97187388 97.321483 23.9718739 22.5519086 27.6745677"></polyline>            
+            <g id="分组" transform="translate(59.000000, 49.000000)" stroke="#FF6500" stroke-linecap="round" stroke-width="4">
+                <path d="M10.6495367,5.84932855 C6.30524369,9.59838389 3.55555556,15.1447466 3.55555556,21.3333333 C3.55555556,32.6244882 12.7088451,41.7777778 24,41.7777778 M36.9069653,37.1893045 C41.5067723,33.4404689 44.4444444,27.7299662 44.4444444,21.3333333 C44.4444444,10.0421784 35.2911549,0.888888889 24,0.888888889" id="形状"></path>
+                <polyline id="Path-21" stroke-linejoin="round" transform="translate(38.709389, 35.153834) rotate(45.000000) translate(-38.709389, -35.153834) " points="30.7093894 31.1511669 38.863215 39.1565007 46.7093894 31.1511669"></polyline>
+                <polyline id="Path-21-Copy" stroke-linejoin="round" transform="translate(8.487167, 8.487167) scale(-1, -1) rotate(45.000000) translate(-8.487167, -8.487167) " points="0.487167143 4.48450026 8.64099278 12.489834 16.4871671 4.48450026"></polyline>
+            </g>
+        </g>
+    </g>
+</svg>

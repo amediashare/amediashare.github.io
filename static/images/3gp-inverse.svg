@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="120px" height="120px" viewBox="0 0 120 120" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <!-- Generator: Sketch 53.1 (72631) - https://sketchapp.com -->
+    <title>Icon120/Dark/mov</title>
+    <desc>Created with Sketch.</desc>
+    <g id="Icon120/Dark/mov" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="分组-2" transform="translate(6.000000, 11.000000)">
+            <g id="分组" transform="translate(30.000000, 31.000000)" stroke="#FFFFFF" stroke-width="4">
+                <circle id="Oval-12" cx="18" cy="18" r="18"></circle>
+                <path d="M20.3225471,13.1306018 L25.3680865,21.8697322 C25.6442288,22.3480248 25.4803537,22.9596152 25.002061,23.2357576 C24.8500418,23.3235259 24.6775977,23.3697322 24.502061,23.3697322 L14.4109824,23.3697322 C13.8586977,23.3697322 13.4109824,22.9220169 13.4109824,22.3697322 C13.4109824,22.1941955 13.4571887,22.0217514 13.544957,21.8697322 L18.5904963,13.1306018 C18.8666387,12.6523091 19.4782291,12.488434 19.9565217,12.7645764 C20.1085409,12.8523447 20.2347788,12.9785825 20.3225471,13.1306018 Z" id="Polygon" transform="translate(19.456605, 18.000083) rotate(90.000000) translate(-19.456605, -18.000083) "></path>
+            </g>
+            <path d="M86,17 C86,35.6666667 86,49.6666667 86,59 M86,94 C86,96.209139 84.209139,98 82,98 L14,98 C11.790861,98 10,96.209139 10,94 L10,4 C10,1.790861 11.790861,0 14,0 L68,0" id="形状" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round"></path>            
+            <path d="M68,0 L82,0 C84.209139,0 86,1.790861 86,4 L86,17 L68,0 Z" id="路径" stroke="#FFFFFF" stroke-width="4" stroke-linecap="round" stroke-linejoin="round" transform="translate(77.000000, 8.500000) scale(-1, -1) translate(-77.000000, -8.500000) "></path>
+        </g>
+        <text id="MOV" font-family="Nunito-Black, Nunito" font-size="18" font-weight="700" letter-spacing="-0.600000024" fill="#FF6500">
+            <tspan x="71" y="95">3G</tspan>
+            <tspan x="95" y="95">P</tspan>
+        </text>
+    </g>
+</svg>
